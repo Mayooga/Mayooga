@@ -8,11 +8,11 @@
 
 ### 🐝 `whoami`
 
-hi, i'm **mayooga** — an Information Science Engineering student at CIT Bengaluru (2027), passionate about computer vision, deep learning, and experimenting with frontend designs.
+hi, i'm **mayooga** — an Information Science Engineering student at CIT Bengaluru , passionate about computer vision, deep learning, and experimenting with frontend designs.
 
 ```python
 mayooga = {
-    "degree"      : "BE — Information Science Engineering @ CIT Bengaluru (2027)",
+    "degree"      : "BE — Information Science Engineering @ CIT Bengaluru ",
     "obsessed_with": ["computer vision", "deep learning", "crafting good frontend"],
 }
 ```
